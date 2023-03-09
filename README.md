@@ -7,7 +7,7 @@ A DLL file created in C++ that allows you to get a reverse shell after hijacking
 
 To setup you will need to have Visual Studio set up on your system from here you can now begin the process of setting up Rev_Hell.
 
-  - Firstly, create a Dynamic Link Libray solution in Visual Studio. This can be found under the C++ section of VIsual Studio
+  - Firstly, create a Dynamic Link Library solution in Visual Studio. This can be found under the C++ section of VIsual Studio
   - Name your project and solution and once created copy and paste the code from the download rev_shell.cpp file you downloaded
   - Now you need to do some port forwarding. The easiest way to do this is via NGROK and creating a TCP session
   - Once you have this, you need to add the session IP into line 18 in your program where it says "127.0.0.1"
