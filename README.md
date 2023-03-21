@@ -3,6 +3,8 @@
 
 A DLL file created in C++ that allows you to get a reverse shell after hijacking a DLL process. This is a great way to have persistence on a machine if you are doing a red team survey or a pen test.
 
+This is a PoC program, do NOT use this for malicious purposes.
+
 ## [How to setup]
 
 To setup you will need to have Visual Studio set up on your system from here you can now begin the process of setting up Rev_Hell.
